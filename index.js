@@ -57,7 +57,7 @@ function getMcm(mcd) {
 }
 
 /**
- * Función para mostrar factorial
+ * Función para mostrar información en UI
  *
  * @returns {void}
  */
