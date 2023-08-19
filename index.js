@@ -1,6 +1,7 @@
 // Import stylesheets
 import './style.css';
 
+//Variables globales
 let inputValue1;
 let inputValue2;
 let mcd;
